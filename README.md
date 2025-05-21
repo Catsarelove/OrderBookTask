@@ -1,7 +1,7 @@
 # OrderBookTask
 ## dummy order book
 
-input file containes a number of sequence (add, modify and delete order, subscribe, unsubscribe, print VWAP, print orderbook)
+input file containes a number of sequences (add, modify and delete order, subscribe, unsubscribe, print VWAP, print orderbook)
 
 
 *LIST OF COMMANDS*
